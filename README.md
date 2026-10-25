@@ -13,4 +13,4 @@ Looking for summer 2027 data analyst, data science, or research internships.
 - [cold-dm-reply-analysis](https://github.com/chrisj1259/cold-dm-reply-analysis): proportion tests and power analysis on 81 outreach DMs; shows a missing-data artifact creating a fake effect.
 - [followersreport](https://github.com/chrisj1259/followersreport): local-first desktop app that diffs Instagram data exports.
 
-**Contact**: mailjohnsonchris@gmail.com
+**Contact**: mailjohnsonchris@gmail.com · [LinkedIn](https://www.linkedin.com/in/chrisjohnson1259/)
